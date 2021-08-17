@@ -1,1 +1,1 @@
-# Discord-Nitro
+# Discord Nitro Generator And Checker
