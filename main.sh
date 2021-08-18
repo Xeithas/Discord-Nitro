@@ -11,6 +11,6 @@ apt-get update
 apt-get upgrade -y
 pkg upgrade -y
 pkg install python wget -y
-wget https://raw.githubusercontent.com/Harpia-Vieillot/Discord-Nitro/Discord.py
+wget https://raw.githubusercontent.com/Harpia-Vieillot/Discord-Nitro/discord.py
 clear
-python3 Discord.py
+python3 discord.py
