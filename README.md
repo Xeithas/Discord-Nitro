@@ -2,6 +2,9 @@
   [![Stars](https://img.shields.io/github/stars/Harpia-Vieillot/Discord-Nitro?style=flat-square&color=blue)](https://github.com/Harpia-Vieillot/Discord-Nitro/stargazers)
   [![Forks](https://img.shields.io/github/forks/Harpia-Vieillot/Discord-Nitro?style=flat-square&color=blue)](https://github.com/Harpia-Vieillot/Discord-Nitro/fork)
 
+### ⚙️ Rᴜɴ Oɴ Rᴇᴘʟɪᴛ
+
+[![Run on Repl.it](https://repl.it/badge/github/sherlock-project/sherlock)](https://replit.com/@Acinonyx/Discord-Nitro#.replit)
 
 ### 🛠️ Lᴀɴɢᴜᴀɢᴇs Aɴᴅ Tᴏᴏʟs
 
