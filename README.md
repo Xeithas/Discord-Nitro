@@ -4,7 +4,7 @@
 
 ### ⚙️ Rᴜɴ Oɴ Rᴇᴘʟɪᴛ
 
-[![Run on Repl.it](https://repl.it/badge/github/sherlock-project/sherlock)](https://replit.com/@Acinonyx/Discord-Nitro#.replit)
+[![Run on Repl.it](https://replit.com/@Acinonyx/Discord-Nitro#nitrogen.py)
 
 ### 🛠️ Lᴀɴɢᴜᴀɢᴇs Aɴᴅ Tᴏᴏʟs
 
