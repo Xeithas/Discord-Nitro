@@ -12,5 +12,6 @@
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ```
-If you are taking code from this repository without a fork, then atleast give credits to hardwork & star to this repo. ❤️
+If you are taking code from this repository without a fork, then atleast give credits to hardwork 
+& star to this repo. ❤️
 ```
